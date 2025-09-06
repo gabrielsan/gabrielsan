@@ -1,4 +1,4 @@
-## Olá, Eu sou Gabriel Santos Silva ☕
+## Olá, Eu sou Gabriel Santos Silva (Santinho) ☕
 Sou técnico médio em informática, desenvolvedor com experiência em React, JavaScript, HTML e CSS, Banco de dados e Helpdesk. Estou sempre estudando e praticando afim de aprimorar minhas habilidades. Atualmente focado no front-end, mas com planos de epandir meus conhecimentos em outras áreas do T.I. 
 
 ## Sobre mim
