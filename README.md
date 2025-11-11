@@ -5,7 +5,7 @@ Sou técnico em informática, desenvolvedor com experiência em React, JavaScrip
 - 👨🏾 Atualmente tenho 22 anos.
 - 👨🏾‍🎓 Técnico em Informática - CEFET-MG Campus VIII, Varginha-MG.
 - ✍🏾 Graduando Bacharel em Sistemas de Informação na Universidade Federal de Lavras, Campus Sede.
-- ✨ Sou apaixonado por tecnologia e gosto de transformar ideias em interfaces funcionais e acessíveis.
+- 🎡 Sou apaixonado por tecnologia e gosto de transformar ideias em interfaces funcionais e acessíveis.
 - 🚀 Explorando novas tecnologias e criando soluções de software.
 - 📜 Valorizo a escrita de código limpo e organizado, visando aprender e colaborar.
 - 🌱 Buscando melhorar minhas habilidades de desenvolvimento e trabalho em equipe.
