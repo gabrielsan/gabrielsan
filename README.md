@@ -1,5 +1,5 @@
 ## Olá, Eu sou Gabriel Santos Silva (Santinho) ☕
-Sou técnico em informática, desenvolvedor com experiência em React, JavaScript, HTML e CSS, Banco de dados e Helpdesk. Estou sempre estudando e praticando afim de aprimorar minhas habilidades. Atualmente focado no front-end, mas com planos de epandir meus conhecimentos em outras áreas do T.I. 
+Sou técnico em informática, desenvolvedor com experiência em React, JavaScript, HTML e CSS, Banco de dados, Helpdesk e um pouco de Segurança e DevOps. Estou sempre estudando e praticando afim de aprimorar minhas habilidades. Atualmente focado no front-end, mas com planos de epandir meus conhecimentos em outras áreas do T.I. 
 
 ## Sobre mim
 - 👨🏾 Atualmente tenho 22 anos.
@@ -9,7 +9,7 @@ Sou técnico em informática, desenvolvedor com experiência em React, JavaScrip
 - 🚀 Explorando novas tecnologias e criando soluções de software.
 - 📜 Valorizo a escrita de código limpo e organizado, visando aprender e colaborar.
 - 🌱 Buscando melhorar minhas habilidades de desenvolvimento e trabalho em equipe.
-
+  
 ## Github Stats ⭐
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielsan&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="Gabriel's GitHub stats" style="border-radius:15px; box-shadow: 0 0 15px rgba(255, 105, 180, 0.5);">
