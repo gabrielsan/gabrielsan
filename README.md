@@ -1,14 +1,14 @@
-## Hello, I'm Gabriel Santos Silva (Santinho) ☕
-I am an IT Technician, a developer with experience in React, JavaScript, HTML and CSS, databases, Helpdesk, and a bit of Security and DevOps. I am constantly studying and practicing to improve my skills. Currently focused on front-end, but with plans to expand my knowledge in other areas of I.T.
+## Olá, Eu sou Gabriel Santos Silva (Santinho) ☕
+Sou técnico em informática, desenvolvedor com experiência em React, JavaScript, HTML e CSS, Banco de dados, Helpdesk e um pouco de Segurança e DevOps. Estou sempre estudando e praticando afim de aprimorar minhas habilidades. Atualmente focado no front-end, mas com planos de expandir meus conhecimentos em outras áreas do T.I. 
 
-## About me
-- 👨🏾 I am currently 22 years old.
-- 👨🏾‍🎓 IT Technician - CEFET-MG Campus VIII, Varginha-MG.
-- ✍🏾 Undergraduate Student pursuing a Bachelor's degree in Information Systems at the Federal University of Lavras.
-- 🎡 I am passionate about technology and enjoy transforming ideas into functional and accessible interfaces.
-- 🚀 Exploring new technologies and creating software solutions.
-- 📜 I value writing clean and organized code, aiming to learn and collaborate.
-- 🌱 Seeking to improve my development and teamwork skills.
+## Sobre mim
+- 👨🏾 Atualmente tenho 22 anos.
+- 👨🏾‍🎓 Técnico em Informática - CEFET-MG Campus VIII, Varginha-MG.
+- ✍🏾 Graduando Bacharel em Sistemas de Informação na Universidade Federal de Lavras, Campus Sede.
+- 🎡 Sou apaixonado por tecnologia e gosto de transformar ideias em interfaces funcionais e acessíveis.
+- 🚀 Explorando novas tecnologias e criando soluções de software.
+- 📜 Valorizo a escrita de código limpo e organizado, visando aprender e colaborar.
+- 🌱 Buscando melhorar minhas habilidades de desenvolvimento e trabalho em equipe.
 
 ## Github Stats ⭐
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
@@ -16,7 +16,7 @@ I am an IT Technician, a developer with experience in React, JavaScript, HTML an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsan&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Langs" style="border-radius:15px; box-shadow: 0 0 15px rgba(255, 105, 180, 0.5);">
 </div>
 
-## Technologies and Languages 💻
+## Tecnologias e linguagens 💻
 <div style="display: inline_block"><br>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -25,7 +25,7 @@ I am an IT Technician, a developer with experience in React, JavaScript, HTML an
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
-## Development Tools 🛠
+## Ferramentas de desenvolvimento 🛠
 <div style="display: inline_block"><br>
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />       
 <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
@@ -33,7 +33,7 @@ I am an IT Technician, a developer with experience in React, JavaScript, HTML an
 <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
-## Contact
+## Contato
 <a href = "mailto:gs4721158@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
