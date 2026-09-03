@@ -2,7 +2,7 @@
 Sou técnico em informática, desenvolvedor com experiência em React, JavaScript, HTML e CSS, Banco de dados, Helpdesk e um pouco de Segurança e DevOps. Estou sempre estudando e praticando afim de aprimorar minhas habilidades. Atualmente focado no front-end, mas com planos de expandir meus conhecimentos em outras áreas do T.I. 
 
 ## Sobre mim
-- 👨🏾 Atualmente tenho 22 anos.
+- 👨🏾 Atualmente tenho 23 anos.
 - 👨🏾‍🎓 Técnico em Informática - CEFET-MG Campus VIII, Varginha-MG.
 - ✍🏾 Graduando Bacharel em Sistemas de Informação na Universidade Federal de Lavras, Campus Sede.
 - 🎡 Sou apaixonado por tecnologia e gosto de transformar ideias em interfaces funcionais e acessíveis.
