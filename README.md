@@ -34,7 +34,7 @@ Sou técnico em informática, desenvolvedor com experiência em React, JavaScrip
 </div>
 
 ## Contato
-<a href = "mailto:gs4721158@gmail.com">
+<a href = "gs4721158@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href="https://www.instagram.com/gabrielsantos._s" title="Abrir Instagram">
